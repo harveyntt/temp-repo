@@ -1,0 +1,12 @@
+C:\Users\dashw\Documents\Visual Studio 2017\Projects\FabricShop\FabricShop\bin\Debug\netcoreapp2.0\FabricShop.deps.json
+C:\Users\dashw\Documents\Visual Studio 2017\Projects\FabricShop\FabricShop\bin\Debug\netcoreapp2.0\FabricShop.runtimeconfig.json
+C:\Users\dashw\Documents\Visual Studio 2017\Projects\FabricShop\FabricShop\bin\Debug\netcoreapp2.0\FabricShop.runtimeconfig.dev.json
+C:\Users\dashw\Documents\Visual Studio 2017\Projects\FabricShop\FabricShop\bin\Debug\netcoreapp2.0\FabricShop.dll
+C:\Users\dashw\Documents\Visual Studio 2017\Projects\FabricShop\FabricShop\bin\Debug\netcoreapp2.0\FabricShop.pdb
+C:\Users\dashw\Documents\Visual Studio 2017\Projects\FabricShop\FabricShop\obj\Debug\netcoreapp2.0\FabricShop.csprojResolveAssemblyReference.cache
+C:\Users\dashw\Documents\Visual Studio 2017\Projects\FabricShop\FabricShop\obj\Debug\netcoreapp2.0\FabricShop.csproj.CoreCompileInputs.cache
+C:\Users\dashw\Documents\Visual Studio 2017\Projects\FabricShop\FabricShop\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\dashw\Documents\Visual Studio 2017\Projects\FabricShop\FabricShop\obj\Debug\netcoreapp2.0\FabricShop.AssemblyInfoInputs.cache
+C:\Users\dashw\Documents\Visual Studio 2017\Projects\FabricShop\FabricShop\obj\Debug\netcoreapp2.0\FabricShop.AssemblyInfo.cs
+C:\Users\dashw\Documents\Visual Studio 2017\Projects\FabricShop\FabricShop\obj\Debug\netcoreapp2.0\FabricShop.dll
+C:\Users\dashw\Documents\Visual Studio 2017\Projects\FabricShop\FabricShop\obj\Debug\netcoreapp2.0\FabricShop.pdb
